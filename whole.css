@@ -1,0 +1,8 @@
+body    {
+    background: #ffff;
+    border: none;
+    pointer-events: none;
+    position: fixed;
+    top: 0;
+    visibility: hidden;
+}
