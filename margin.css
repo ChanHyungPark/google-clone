@@ -1,5 +1,7 @@
 body    {
-    text-align: center;
+    text-align: center; 
+    /* 가운데로 맞춰주기 */
     margin-bottom: 38px;
+    /* 구글에 있는 마진 바텀 사이즈 가져오기 */
     z-index: 1;
 }
