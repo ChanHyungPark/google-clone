@@ -5,3 +5,12 @@ body    {
     /* 구글에 있는 마진 바텀 사이즈 가져오기 */
     z-index: 1;
 }
+#full_screen{
+    width: 498.4;
+    height: 665.6;
+}
+#homepage_top{
+    width: 486.4;
+    height: 48;
+    background-color: transparent;
+}
